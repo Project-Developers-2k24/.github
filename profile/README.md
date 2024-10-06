@@ -17,21 +17,21 @@ The Paradox Study Project aims to create an innovative platform that provides us
 ### Danish Khan
 **Role:** Backend Developer  
 **Description:** Skilled in Git management, testing, and maintaining code quality, ensuring stability and smooth operation of backend processes.  
-- [LinkedIn](#) | [GitHub](#)
+- [LinkedIn](https://paradox-introduction.vercel.app/www.linkedin.com/in/danishkhan229) | [GitHub](https://paradox-introduction.vercel.app/www.github.com/Danish451)
 
 ---
 
 ### Ishika Patni
 **Role:** Frontend Developer  
 **Description:** Creative and detail-oriented, focused on building intuitive user interfaces and conducting comprehensive testing for exceptional user experiences.  
-- [LinkedIn](#) | [GitHub](#)
+- [LinkedIn](https://www.linkedin.com/in/ishika-patni-66227a228) | [GitHub](https://github.com/ishika3838)
 
 ---
 
 ### Tushar Kumar Sahu
 **Role:** Frontend Developer  
 **Description:** Strong debugging skills ensure our applications run smoothly and deliver a seamless user experience.  
-- [LinkedIn](#) | [GitHub](#)
+- [LinkedIn](https://linkedin.com/in/tushar-kumar-sahu-8a7245250) | [GitHub](https://github.com/KumarTusharSahu)
 
 ---
 
@@ -45,14 +45,14 @@ The Paradox Study Project aims to create an innovative platform that provides us
 ### Chinkle Rathore
 **Role:** Backend Developer  
 **Description:** Expert in admin panel integration, playing a crucial role in managing server-side operations, ensuring system security and performance.  
-- [LinkedIn](#) | [GitHub](#)
+- [LinkedIn](http://surl.li/jwzhto) | [GitHub](#)
 
 ---
 
 ### Aditya Dadhich
 **Role:** AI/ML Developer  
 **Description:** Developed Maruti, a question-answering system, capable of responding to queries based on the information provided in documents or books. Still learning, excited to assist you more in the future.  
-- [LinkedIn](#) | [GitHub](#)
+- [LinkedIn](https://www.linkedin.com/in/aditya-dadhich-0b872b264/) | [GitHub](https://github.com/adiibaba239)
 
 ---
 
