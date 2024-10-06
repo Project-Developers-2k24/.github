@@ -10,7 +10,7 @@ The Paradox Study Project aims to create an innovative platform that provides us
 **Role:** Team Lead  
 **Specialties:** Backend Development, AI/ML Integration, CI/CD Pipeline Management, Azure Cloud Solutions  
 **Description:** Vishal ensures our system's scalability and efficiency, leading the team in backend development and integration of AI/ML solutions.  
-- [LinkedIn](#) | [GitHub](#)
+- [LinkedIn](https://www.linkedin.com/in/vishalrawat14/) | [GitHub](https://github.com/Vicky2114)
 
 ---
 
