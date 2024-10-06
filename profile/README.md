@@ -64,8 +64,3 @@ The Paradox Study Project aims to create an innovative platform that provides us
 - MongoDB
 - Azure Account (for deployment)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-url.git
